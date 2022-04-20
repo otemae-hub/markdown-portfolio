@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# List
+* Exploring
+* Wandering
+* Drawing
+* Bouncing around the place
+* Connecting
+* Uplifting
